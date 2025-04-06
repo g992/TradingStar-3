@@ -1,2 +1,5 @@
 # TradingStar-3
-Trading Star 3 Release Repo
+Данный репозиторий содержит в себе файлы, необходимые для работы бота TradingStar 3, а также релизы бота.
+Релизы генерируются автоматически.
+
+Википедия проекта - https://wiki.tradingstar.org/
